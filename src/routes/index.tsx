@@ -64,7 +64,7 @@ function Index() {
             </p>
             <div className="flex flex-wrap gap-4">
               <a
-                href="https://lnkd.in/gud-7K-E"
+                href="https://maisonlinore.github.io/tvnews/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-4 bg-accent text-accent-foreground font-mono font-bold text-sm tracking-widest hover:bg-foreground transition-colors"
